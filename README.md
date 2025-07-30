@@ -21,6 +21,6 @@ Formatted the dashboard using themes, titles, and layout adjustments.
 Saved the file as Weather_Report.pbix.
 
 🧰 Tools Used:
-Microsoft Power BI
-Microsoft Excel (data source)
-Power Query Editor
+Microsoft Power BI,
+Microsoft Excel (data source),
+Power Query Editor.
